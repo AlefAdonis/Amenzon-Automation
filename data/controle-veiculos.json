@@ -1,0 +1,139 @@
+{
+  "controle": [
+    {
+      "cpf": "123.456.789-01",
+      "nome": "João da Silva",
+      "idade": 35,
+      "galpao": "Galpão A",
+      "marca_caminhão": "Scania",
+      "placa_caminhão": "ABC-1234",
+      "rota": "João Pessoa - Campina Grande"
+    },
+    {
+      "cpf": "987.654.321-09",
+      "nome": "Maria Oliveira",
+      "idade": 28,
+      "galpao": "Galpão B",
+      "marca_caminhão": "Volvo",
+      "placa_caminhão": "XYZ-5678",
+      "rota": "Recife - Campina Grande"
+    },
+    {
+      "cpf": "456.789.123-45",
+      "nome": "José Santos",
+      "idade": 42,
+      "galpao": "Galpão A",
+      "marca_caminhão": "Mercedes-Benz",
+      "placa_caminhão": "DEF-9012",
+      "rota": "João Pessoa - Recife"
+    },
+    {
+      "cpf": "111.222.333-44",
+      "nome": "Ana Pereira",
+      "idade": 30,
+      "galpao": "Galpão C",
+      "marca_caminhão": "Volvo",
+      "placa_caminhão": "LMN-3456",
+      "rota": "Caruaru - Brasília"
+    },
+    {
+      "cpf": "555.666.777-88",
+      "nome": "Carlos Mendes",
+      "idade": 38,
+      "galpao": "Galpão B",
+      "marca_caminhão": "Scania",
+      "placa_caminhão": "PQR-7890",
+      "rota": "Recife - Bahia"
+    },
+    {
+      "cpf": "999.888.777-66",
+      "nome": "Fernanda Silva",
+      "idade": 31,
+      "galpao": "Galpão A",
+      "marca_caminhão": "Mercedes-Benz",
+      "placa_caminhão": "GHI-2345",
+      "rota": "João Pessoa - Natal"
+    },
+    {
+      "cpf": "777.888.999-11",
+      "nome": "Luiz Oliveira",
+      "idade": 40,
+      "galpao": "Galpão C",
+      "marca_caminhão": "Volvo",
+      "placa_caminhão": "JKL-6789",
+      "rota": "Caruaru - João Pessoa"
+    },
+    {
+      "cpf": "222.333.444-55",
+      "nome": "Mariana Santos",
+      "idade": 27,
+      "galpao": "Galpão B",
+      "marca_caminhão": "Scania",
+      "placa_caminhão": "STU-0123",
+      "rota": "Recife - Maceió"
+    },
+    {
+      "cpf": "333.444.555-66",
+      "nome": "Pedro Mendonça",
+      "idade": 45,
+      "galpao": "Galpão A",
+      "marca_caminhão": "Volvo",
+      "placa_caminhão": "VWX-4567",
+      "rota": "João Pessoa - Cabrobó"
+    },
+    {
+      "cpf": "444.555.666-77",
+      "nome": "Sofia Rodrigues",
+      "idade": 33,
+      "galpao": "Galpão C",
+      "marca_caminhão": "Scania",
+      "placa_caminhão": "YZA-8901",
+      "rota": "Caruaru - Sertânia"
+    },
+    {
+      "cpf": "555.444.333-22",
+      "nome": "Ricardo Oliveira",
+      "idade": 29,
+      "galpao": "Galpão B",
+      "marca_caminhão": "Mercedes-Benz",
+      "placa_caminhão": "BCD-2345",
+      "rota": "Recife - Petrolina"
+    },
+    {
+      "cpf": "666.555.444-33",
+      "nome": "Laura Silva",
+      "idade": 36,
+      "galpao": "Galpão A",
+      "marca_caminhão": "Scania",
+      "placa_caminhão": "EFG-6789",
+      "rota": "João Pessoa - São Paulo"
+    },
+    {
+      "cpf": "777.666.555-44",
+      "nome": "Gustavo Santos",
+      "idade": 32,
+      "galpao": "Galpão C",
+      "marca_caminhão": "Volvo",
+      "placa_caminhão": "HIJ-0123",
+      "rota": "Caruaru - Salvador"
+    },
+    {
+      "cpf": "888.777.666-55",
+      "nome": "Larissa Mendes",
+      "idade": 39,
+      "galpao": "Galpão B",
+      "marca_caminhão": "Mercedes-Benz",
+      "placa_caminhão": "KLM-4567",
+      "rota": "Recife - Belo Horizonte"
+    },
+    {
+      "cpf": "999.888.777-66",
+      "nome": "Eduardo Oliveira",
+      "idade": 43,
+      "galpao": "Galpão A",
+      "marca_caminhão": "Scania",
+      "placa_caminhão": "NOP-8901",
+      "rota": "João Pessoa - Porto Alegre"
+    }
+  ]
+}
