@@ -18,3 +18,8 @@ Zezo Beijos percebendo que ter um funcionário para fazer apenas esse processo t
 ### Diagrama de Fluxo
 ![amenzon-automation](https://github.com/AlefAdonis/Amenzon-Automation/assets/62490971/d8fe6922-0b07-495d-b253-a1faedfb4519)
 
+
+###OBS
+
+Execute o comando `pip install pandas openpyxl` antes de iniciar o desenvolvimento
+
